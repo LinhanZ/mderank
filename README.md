@@ -18,7 +18,7 @@ StanfordCoreNLP 3.9.1.1
 torch 1.1.0
 allennlp 0.8.4
 pke 1.8.1
-transformer 
+transformer 4.14.1
 CUDA version 10.2
 ```
 
